@@ -1,4 +1,4 @@
-````markdown
+
 Este proyecto muestra de forma sencilla cómo utilizar **Redis** desde **Node.js** mediante un ejemplo de una clave dinámica temporal.
 
 La idea es simular un escenario similar al de una aplicación que genera un código temporal para validar una operación.
